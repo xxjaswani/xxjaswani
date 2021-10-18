@@ -51,6 +51,10 @@ a {
     padding-bottom: 2vh;
 }
 
+.item-space {
+    width: 5%;
+}
+
 button {
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
