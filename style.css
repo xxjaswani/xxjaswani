@@ -15,6 +15,14 @@ a {
     width: 80vw;
 }
 
+.player {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+
 .container {
     font-family: Helvetica;
     font-style: italic;
@@ -22,8 +30,6 @@ a {
     padding-top: 0vh;
     margin-top: 130px;
     text-align: center;
-    align-self: center;
-    align-content: center;
     width: 100%;
 }
 
