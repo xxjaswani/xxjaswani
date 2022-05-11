@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(105, 2, 0);
+    background-color: #0B0C0D;
     padding: 0;
     margin: 0;
     overflow: auto;
@@ -104,7 +104,7 @@ nav {
     font-family:'Times New Roman';
     height: 70px;
     padding: 0% 5%;
-    background-color: rgb(61, 0, 0);
+    background-color: #111214;
 }
 
 nav .logo{
