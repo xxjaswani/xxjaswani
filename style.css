@@ -24,8 +24,7 @@ a {
 
 
 .container {
-    font-family: Helvetica;
-    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
     padding-top: 0vh;
     margin-top: 130px;
@@ -62,7 +61,7 @@ a {
 }
 
 button {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: black;
     font-size: 20px;
     text-decoration: none;
@@ -102,8 +101,7 @@ nav {
     left: 0%;
     right: 0%;
     top: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: oblique;
+    font-family:'Times New Roman';
     height: 70px;
     padding: 0% 5%;
     background-color: rgb(61, 0, 0);
