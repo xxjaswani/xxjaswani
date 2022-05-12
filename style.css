@@ -56,6 +56,11 @@ a {
     padding-bottom: 2vh;
 }
 
+.shop-item {
+    width: 100%;
+    text-align: center;
+}
+
 .item-space {
     width: 5%;
 }
