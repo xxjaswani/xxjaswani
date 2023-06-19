@@ -64,23 +64,6 @@
         var navBar = document.querySelector(".nav-bar");
         navBar.classList.toggle("active");
       };
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/serviceworker.js')
-            .then(registration => {
-              console.log('Service Worker registered:', registration);
-            })
-            .catch(error => {
-              console.log('Service Worker registration failed:', error);
-            });
-        });
-      }
-      window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "4a4ec223-50d3-4c42-a21e-80acf3cf932e",
-    });
-  });
     </script>
      
     
